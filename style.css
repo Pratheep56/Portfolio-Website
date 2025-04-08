@@ -106,6 +106,7 @@ body {
 
 .home span{
     background: linear-gradient(45deg, #d0ae32, #ec6b6b);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
